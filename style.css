@@ -1,14 +1,15 @@
-.container{
-	width: 100%;
-	max-width: 1200px;
-	margin: 0px auto;
-}
+
 .resimSlider{
 	height: 703px;
 }
 body{
 	padding-top: 50px;
 	font-family: 'Raleway', sans-serif;
+}
+
+nav{
+	width: 100%;
+	
 }
 #hakkimizda,#iletisim{
 	background-color: #f2f2f2;
@@ -18,6 +19,12 @@ body{
 	border-top: 3px solid #343a40;
 	max-width: 250px;
 	margin: 10px auto;
+}
+iframe{
+	width: 100%;
+}
+.mesaj{
+	width: 90%
 }
 
 .resimKartB{
